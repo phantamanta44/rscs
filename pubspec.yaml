@@ -1,0 +1,9 @@
+name: rscs
+version: 1.0.0
+description: A really stupid compression scheme
+author: phantamanta44
+dependencies:
+  args:
+  crypto:
+executables:
+  rscs: main
